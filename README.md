@@ -4,7 +4,7 @@ Hi 👋 My name is Amir Andrade
 Web and Mobile developer
 ------------------------
 
-I started programming at Science Computer college. Learn a few languages but I really liked javascript. I am already a graduate as a scientist and am studying for being a manager one day.
+I started programming at Science Computer college. Learn a few languages but I really liked javascript. I am already a graduate as a scientist and am studying to be even better developer every day.
 
 *   🌍  I'm based in Brasil
 *   ✉️  You can contact me at [amir.dantas@hotmail.com](mailto:amir.dantas@hotmail.com)
